@@ -3,5 +3,5 @@
 Test With Settings
     [Documentation]    Simple test 01
     [Tags]    simple_tag_name    simple_tag_value
-    Sleep     120
+    Sleep     120s
     Log    Hello, world!
