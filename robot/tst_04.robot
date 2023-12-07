@@ -15,6 +15,7 @@ Test With Settings
     ${end_time}        Get Current Date   UTC    
     Log                Test Ended
     Log                ${end_time}
+Test 1
     Should be True     0
 
 Test 2
