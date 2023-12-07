@@ -20,4 +20,4 @@ Test 1
     Should be True     0
 
 Test 2
-    Should be true     1
+    Should be True     1
